@@ -1,4 +1,4 @@
-# Prime Projects - Professional Construction Website
+# Prime Projects & Construction - Professional Website
 
 🚀 **Live Site**: [primeprojects.co.za](https://primeprojects.co.za/)
 
