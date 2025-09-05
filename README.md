@@ -2,6 +2,8 @@
 
 🚀 **Live Site**: [primeprojects.co.za](https://primeprojects.co.za/)
 
+<img width="1908" height="911" alt="image" src="https://github.com/user-attachments/assets/5d2e960d-db49-4059-bd54-2a27fbbf39bf" />
+
 ## Overview
 
 A premium, fully custom-built website for Prime Projects and Construction (Pty) Ltd, a professional construction and renovation company serving the Cape Town, Atlantic Seaboard area. This project represents a complete digital transformation, built entirely from scratch with over **10,000 lines of code** across 10 comprehensive pages.
@@ -64,6 +66,8 @@ The website draws inspiration from **iOS design principles** and modern **liquid
 - Office Renovations
 - Structural Alterations
 - Full Construction Services
+
+<img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/defd86ee-cced-44fc-95cd-14221865515d" />
 
 ### **Business Integration & Infrastructure Overhaul**
 - Complete digital infrastructure redesign and implementation
