@@ -1,7 +1,5 @@
 # Prime Projects & Construction - Professional Website
 
-🚀 **Live Site**: [primeprojects.co.za](https://primeprojects.co.za/)
-
 <img width="1908" height="911" alt="image" src="https://github.com/user-attachments/assets/5d2e960d-db49-4059-bd54-2a27fbbf39bf" />
 
 ## Overview
@@ -114,3 +112,5 @@ The combination of sophisticated design, technical excellence, and business-focu
 ---
 
 *This project demonstrates advanced web development capabilities, combining aesthetic excellence with technical precision to deliver a professional construction industry website that stands out in the digital landscape.*
+
+🚀 **Live Site**: [primeprojects.co.za](https://primeprojects.co.za/)
